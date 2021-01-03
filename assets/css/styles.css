@@ -413,13 +413,14 @@ img{
 
 .send__direction{
   display: flex;
+  justify-content: space-between;
   background-color: #fff;
   padding: .5rem;
   border-radius: .5rem;
 }
 
 .send__input{
-  width: 90%;
+  width: 70%;
   outline: none;
   border: none;
   font-size: var(--normal-font-size);
