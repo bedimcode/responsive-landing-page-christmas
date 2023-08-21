@@ -7,5 +7,6 @@
 - adding some JS elements.
 - Includes a dark and light mode.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- adding more html fetures and css
 
 
