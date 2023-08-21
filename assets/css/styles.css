@@ -387,7 +387,7 @@ img{
   color: var(--title-color);
 }
 
-.accessory__button{
+.accessory__button {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -395,6 +395,16 @@ img{
   font-size: 1.25rem;
   padding: .5rem .625rem;
   border-radius: 1rem 0 1rem 0;
+  gap: 10px;
+}
+
+.accessory__button:first-child {
+  display: block;
+}
+
+.accessory__button:nth-child(2) {
+  position: relative;
+  top: 10px;
 }
 
 /*========== SEND GIFT ==========*/
